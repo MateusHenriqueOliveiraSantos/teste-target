@@ -1,0 +1,11 @@
+letra A é uma sequência de números ímpares portanto o próximo número é 9.
+
+letra B é sempre o dobro do próximo número então é 128.
+
+letra C é uma sequência de números contando a partir de 1 que é elevado ao quadrado portanto o proximo é 7^2 (7 elevado a 2) que terá como resultado 49.
+
+letra D é uma sequência de números contando a partir de 2 e que aumenta de 2 em 2 também elevado ao quadrado portanto o proximo é 10^2 (10 elevado a 2) que dará 100.
+
+letra E é uma sequência de Fibonacci estudei sobre ela em alguns cursos da Alura em que cada número é a soma dos dois anteriores então o próximo seria 5 + 8 que daria 13.
+
+letra F não consegui identificar como é realizada a sequência.
